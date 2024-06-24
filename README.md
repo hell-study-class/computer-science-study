@@ -23,6 +23,32 @@
 
 <br>
 
+## 🙆🏻‍♂️ Git Commit, PR Message Convention
+### Commit Type
+```
+[태그] {챕터}:{섹션}
+```
+
+- 예시 : `[NETWORK] 챕터2:2.1.4`
+
+#### 🚉 주제 약어
+| 주제 | 태그 |
+| :--: | :--: |
+| 네트워크 | [NETWORK] |
+| 운영체제 | [OS] |
+| 데이터베이스 | [DB] |
+
+<br>
+
+### Pull Request
+```bash
+[주제] 학습한 내용
+```
+- 예시: `[NETWORK] 챕터1 애플리케이션 개념 정리`
+
+
+<br>
+
 ## 📚 학습 주제
 ### 네트워크
 - [컴퓨터 네트워킹 하향식 접근](https://product.kyobobook.co.kr/detail/S000061694627)
