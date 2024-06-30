@@ -13,7 +13,7 @@
 ### DHCP로부터 IP 재 할당 과정
 <br>
 <p align="center">
-    <img src="resources/img_2.png"></img>
+    <img src="resources/img.png"></img>
 </p>
 
 <br>
