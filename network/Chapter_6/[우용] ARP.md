@@ -2,7 +2,11 @@
 > 네트워크 계층 주소(IP주소)와 링크 계층 주소(MAC주소) 들을 서로 변환해주는 기능을 수행한다.
 > 즉, 같은 서브넷의 다른 IP 주소를 가진 데이터그램을 전달하기 위해 MAC주소로 변환해주는 기능이다.
 
-<p align="center" src="resources/img.png"></p>
+<br>
+
+<p align="center">
+  <img src="resources/img.png"></img>
+</p>
 
 <br/>
 
